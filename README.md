@@ -1,5 +1,7 @@
 # News-App
 News App using API from newsapi.org (Only Java)
+
+
 ![news](https://user-images.githubusercontent.com/100896741/222401729-ad906f32-8bc2-4ccc-8f90-b3d39402bfb4.png)
 
 Fetching data from API
