@@ -20,3 +20,9 @@ Everyday news updates and gets new data
 ## Click on view item
 
 ![news3](https://user-images.githubusercontent.com/100896741/222401751-61b01dd1-0b9d-469e-8b95-f5a6922a67cf.png)
+
+
+## Comment 
+I have done this app but i did not solve problem with parsing image from website.
+Website gives null object in JSON where there ought to be a url.
+So i put there local photo
