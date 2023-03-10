@@ -7,7 +7,7 @@ Everyday news updates and gets new data
 1) Data from website by Api (JSON)
 2) Parsing in app by Retrofit
 3) Showing it on Screen
-
+4) There are some filters by which you can filter data
 
 ## There some screenshots
 
